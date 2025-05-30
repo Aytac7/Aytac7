@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aytac Ramazanli</h1>
-<h3 align="center">Java Backend Developer | Final year student at Baku Engineering University</h3>
+<h3 align="center">Java Backend Developer | Computer Engineering, Baku Engineering University</h3>
 
 ---
 
 ### 👩‍🎓 About Me:
 
-🎓 I'm currently studying Computer Engineering (English section) at Baku Engineering University – 4th year  
 💻 I’m passionate about Java Backend Development and expanding my knowledge in scalable systems  
 🚀 My goal is to become a skilled backend engineer, building reliable and efficient applications  
-🌱 Currently learning and building projects using Java, Spring Boot, and SQL technologies  
+🌱 Learning and building projects using Java, Spring Boot, and SQL technologies  
 
 ---
 
